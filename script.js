@@ -70,21 +70,27 @@ function labRGB(){$('#labContent').innerHTML=head('Mistura RGB','Combine os cana
 function labJedi(){let tx=Math.ceil(Math.random()*8),ty=Math.ceil(Math.random()*8);$('#labContent').innerHTML=head('Arquivo Jedi','Encontre o alvo oculto.')+`<div class="virtual-grid"><div class="stage"><div class="grid-lines"></div><div class="jpoint known" style="left:20%;top:70%"></div><div class="jpoint guess" id="guess"></div></div><div class="sim-panel"><div class="control"><label>X <output id="xo">5</output></label><input id="x" type="range" min="1" max="8" value="5"></div><div class="control"><label>Y <output id="yo">5</output></label><input id="y" type="range" min="1" max="8" value="5"></div><button id="check">Verificar</button><div class="readout" id="jr"></div></div></div>`;let x=$('#x'),y=$('#y'),g=$('#guess');function u(){g.style.left=+x.value/9*100+'%';g.style.top=(9-+y.value)/9*100+'%';$('#xo').textContent=x.value;$('#yo').textContent=y.value;}x.oninput=y.oninput=u;u();$('#check').onclick=()=>$('#jr').textContent=(+x.value===tx&&+y.value===ty)?'Missão concluída!':'Ainda não. Continue tentando.';}
 function labSensor(){$('#labContent').innerHTML=head('Sensor Ultrassônico','Observe distância e tempo de retorno.')+`<div class="virtual-grid"><div class="stage" style="background:#eaf3f8"><div class="sensor-unit"></div><div class="pulse" id="pulse"></div><div class="sensor-object" id="obj"></div></div><div class="sim-panel"><div class="control"><label>Distância <output id="sd">100 cm</output></label><input id="dist" type="range" min="5" max="300" value="100"></div><div class="readout">Tempo: <b id="tm">5.83 ms</b></div></div></div>`;let d=$('#dist'),o=$('#obj'),p=$('#pulse');function u(){let pct=(d.value-5)/295;$('#sd').textContent=d.value+' cm';$('#tm').textContent=(d.value/100*2/343*1000).toFixed(2)+' ms';o.style.left=(20+pct*65)+'%';p.style.width=(10+pct*65)+'%';}d.oninput=u;u();}
 function esc(v){return String(v??'').replace(/[&<>'"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));}
-const caminhoArquivo = `materiais/${item.arquivo}`;
-    const ePDF = item.arquivo && item.arquivo.toLowerCase().endsWith('.pdf');
+// Dentro da função que abre o modal do item da biblioteca:
+function openModal(item) {
+  const caminhoArquivo = `materiais/${item.arquivo}`;
+  const ePDF = item.arquivo && item.arquivo.toLowerCase().endsWith('.pdf');
 
-    modalContent.innerHTML = `
-      <h2>${item.titulo}</h2>
-      <p>Recebido — ${item.descricao || 'conteúdo aguardando catalogação detalhada'}</p>
-      <p><strong>Área:</strong> ${item.area}</p>
-      <p><strong>Tipo:</strong> ${item.tipo}</p>
-      <p><strong>Arquivo:</strong> ${item.arquivo}</p>
+  modalContent.innerHTML = `
+    <h2>${item.titulo}</h2>
+    <p>Recebido — ${item.descricao || 'conteúdo aguardando catalogação detalhada'}</p>
+    <p><strong>Área:</strong> ${item.area}</p>
+    <p><strong>Tipo:</strong> ${item.tipo}</p>
+    <p><strong>Arquivo:</strong> ${item.arquivo}</p>
 
-      <div style="margin-top: 20px; display: flex; gap: 10px; flex-wrap: wrap;">
-        <a href="${caminhoArquivo}" download style="display: inline-flex; align-items: center; gap: 6px; padding: 10px 18px; background: #00D2FF; color: #080C1E; font-weight: bold; border-radius: 8px; text-decoration: none;">
-          📥 Baixar Arquivo
-        </a>
+    <div style="margin-top: 20px; display: flex; gap: 10px; flex-wrap: wrap;">
+      <a href="${caminhoArquivo}" download style="display: inline-flex; align-items: center; gap: 6px; padding: 10px 18px; background: #00D2FF; color: #080C1E; font-weight: bold; border-radius: 8px; text-decoration: none;">
+        📥 Baixar Arquivo
+      </a>
 
-        ${ePDF ? `<a href="${caminhoArquivo}" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 6px; padding: 10px 18px; background: #A855F7; color: #ffffff; font-weight: bold; border-radius: 8px; text-decoration: none;">👁️ Visualizar PDF</a>` : ''}
-      </div>
-    `;
+      ${ePDF ? `<a href="${caminhoArquivo}" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 6px; padding: 10px 18px; background: #A855F7; color: #ffffff; font-weight: bold; border-radius: 8px; text-decoration: none;">👁️ Visualizar PDF</a>` : ''}
+    </div>
+  `;
+
+  // Exemplo da chamada para abrir o modal:
+  document.querySelector('#labModal').classList.add('open');
+}
