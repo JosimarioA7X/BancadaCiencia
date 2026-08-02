@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#030817">
+  <meta name="description" content="Portal Banca da Ciência: biblioteca, laboratórios virtuais, jogos, kits e recursos educacionais.">
+  <title>Banca da Ciência | Portal de Divulgação Científica</title>
+  <link rel="icon" type="image/png" href="assets/judith.png">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="skip-link" href="#conteudo">Pular para o conteúdo</a>
+<div class="app-shell">
+  <aside class="sidebar" aria-label="Navegação principal">
+    <a class="logo" href="#inicio"><span class="logo-icon">⚗</span><span><b>BANCA DA</b><strong>CIÊNCIA</strong><small>EXPERIMENTE • DESCUBRA • TRANSFORME</small></span></a>
+    <nav>
+      <a class="active" href="#inicio">⌂ <span>Início</span></a>
+      <a href="#biblioteca">▤ <span>Biblioteca</span></a>
+      <a href="#laboratorios">⚗ <span>Laboratórios</span></a>
+      <a href="#kits">◇ <span>Kits e Projetos</span></a>
+      <a href="#jogos">🎮 <span>Jogos e Desafios</span></a>
+      <a href="#professor">♙ <span>Área do Professor</span></a>
+      <a href="#sobre">ⓘ <span>Sobre</span></a>
+    </nav>
+    <div class="social-links"><a href="#contato" aria-label="Contato">✉</a><a href="#sobre" aria-label="Informações">i</a></div>
+  </aside>
+  <div class="main-shell">
+    <header class="topbar">
+      <label class="top-search"><input id="globalSearch" aria-label="Pesquisar no portal" placeholder="Busque experimentos, materiais e kits..."><span>⌕</span></label>
+      <div class="top-actions"><button id="themeToggle" aria-label="Alternar tema">◐</button><a href="#sobre">Sobre</a><a href="#contato">Contato</a><button class="login" id="openJudith">Falar com Judith</button></div>
+    </header>
+    <main id="conteudo">
+      <section class="hero" id="inicio">
+        <div class="hero-copy"><h1>EXPLORE.<br>EXPERIMENTE.<br><em>TRANSFORME.</em></h1><p>Atividades práticas, simuladores e recursos para aprender ciência de forma criativa, acessível e inspiradora.</p><div class="hero-buttons"><a class="cta main" href="#biblioteca">▤ Explorar Biblioteca</a><a class="cta ghost" href="#laboratorios">⚗ Laboratórios Virtuais</a></div></div>
+        <div class="hero-art"><img src="assets/hero-neon.png" alt="Ilustração futurista com elementos científicos"></div>
+        <aside class="hero-note"><span>◎</span><b>Ciência em todo lugar</b><p>Do microscópico ao cósmico, do simples ao extraordinário.</p></aside>
+      </section>
+      <div class="status-note" id="dataStatus">Carregando o catálogo do portal…</div>
+      <section class="impact-strip"><div><span>◇</span><b id="impactMaterials">—</b><small>Materiais catalogados</small></div><div><span>≋</span><b id="impactCollections">—</b><small>Coleções temáticas</small></div><div><span>⚗</span><b id="impactLabs">6</b><small>Laboratórios interativos</small></div><div><span>♙</span><b>Educadores</b><small>Recursos para planejamento</small></div><div><span>◒</span><b>Acesso livre</b><small>Portal estático e gratuito</small></div></section>
+      <section class="areas" id="areas"><div class="area-title"><h2>EXPERIMENTE POR ÁREA</h2></div><div class="area-grid" id="areaGrid"></div></section>
+      <section class="feature-row"><article><div class="feature-icon cyan">⚗</div><div><h3>Laboratórios Interativos</h3><p>Simuladores para explorar conceitos em tempo real.</p><a href="#laboratorios">Acessar</a></div></article><article><div class="feature-icon orange">🏆</div><div><h3>Jogos e Desafios</h3><p>Aprenda brincando e teste seus conhecimentos.</p><a href="#jogos">Jogar agora</a></div></article><article><div class="feature-icon yellow">💡</div><div><h3>Kits e Projetos</h3><p>Ideias práticas para oficinas e feiras científicas.</p><a href="#kits">Ver projetos</a></div></article><article><div class="feature-icon purple">◉</div><div><h3>Área do Professor</h3><p>Planos, sequências didáticas e materiais pedagógicos.</p><a href="#professor">Acessar área</a></div></article></section>
+      <section class="section" id="laboratorios"><div class="section-head"><div><span>LABORATÓRIOS VIRTUAIS</span><h2>Experimente conceitos em tempo real</h2></div><p>Seis módulos interativos para aprender fazendo.</p></div><div class="lab-grid"><article class="lab-card"><div class="lab-icon">🔭</div><span>ASTRONOMIA</span><h3>Telescópio Virtual</h3><p>Altitude, azimute e alinhamento de objetos.</p><button data-lab="telescopio">Explorar →</button></article><article class="lab-card"><div class="lab-icon">🎵</div><span>ONDAS E SOM</span><h3>Teremin Virtual</h3><p>Frequência e volume controlados pelo cursor.</p><button data-lab="teremin">Explorar →</button></article><article class="lab-card"><div class="lab-icon">💧</div><span>FÍSICA</span><h3>Coluna de Líquido</h3><p>Densidade, gravidade, profundidade e pressão.</p><button data-lab="pressao">Explorar →</button></article><article class="lab-card"><div class="lab-icon">🎨</div><span>LUZ E COR</span><h3>Mistura RGB</h3><p>Combine vermelho, verde e azul.</p><button data-lab="rgb">Explorar →</button></article><article class="lab-card"><div class="lab-icon">🛰</div><span>COORDENADAS</span><h3>Arquivo Jedi</h3><p>Resolva missões usando coordenadas.</p><button data-lab="jedi">Jogar →</button></article><article class="lab-card"><div class="lab-icon">📡</div><span>SENSORES</span><h3>Sensor Ultrassônico</h3><p>Distância e tempo de retorno.</p><button data-lab="sensor">Explorar →</button></article></div></section>
+      <section class="section" id="jogos"><div class="section-head"><div><span>JOGOS E DESAFIOS</span><h2>Aprender brincando</h2></div><p>Atividades lúdicas catalogadas no acervo.</p></div><div class="small-grid" id="gameGrid"></div></section>
+      <section class="section" id="kits"><div class="section-head"><div><span>KITS E PROJETOS</span><h2>Experiências práticas</h2></div><p>Propostas de montagem e experimentação.</p></div><div class="small-grid" id="kitGrid"></div></section>
+      <section class="section" id="professor"><div class="section-head"><div><span>ÁREA DO PROFESSOR</span><h2>Recursos para planejar e ensinar</h2></div><p>Planos, revisões e sequências didáticas.</p></div><div class="filter-row"><input id="teacherSearch" placeholder="Buscar recurso docente..."><select id="teacherType"><option value="">Todos os tipos</option></select></div><div class="small-grid" id="teacherGrid"></div></section>
+      <section class="section library" id="biblioteca"><div class="section-head"><div><span>BIBLIOTECA DIGITAL</span><h2>Todo o acervo em um só lugar</h2></div><p>Pesquise por título, área e tipo.</p></div><div class="filter-row triple"><input id="librarySearch" placeholder="Digite um tema..."><select id="libraryCategory"><option value="">Todas as áreas</option></select><select id="libraryType"><option value="">Todos os tipos</option></select></div><div class="library-count" id="libraryCount"></div><div class="library-grid" id="libraryGrid"></div><button class="more" id="loadMore">Mostrar mais</button></section>
+      <section class="about" id="sobre"><h2>Ciência, educação e extensão universitária</h2><p>Um portal para organizar o acervo e ampliar o acesso a experiências científicas.</p></section>
+      <section class="about" id="contato"><h2>Contato</h2><p>Atualize esta seção no arquivo <b>index.html</b> com os canais oficiais da Banca da Ciência.</p></section>
+    </main>
+  </div>
+</div>
+<button class="judith-fab" id="judithFab" aria-label="Abrir guia Judith"><img src="assets/judith.png" alt="Judith"></button>
+<div class="judith-dialog" id="judithDialog" role="dialog" aria-modal="true" aria-labelledby="judithTitle"><div class="dialog-backdrop" data-judith-close></div><section class="judith-card"><button data-judith-close aria-label="Fechar">×</button><img src="assets/judith.png" alt="Judith"><h2 id="judithTitle">Olá! Sou a Judith.</h2><p>Posso orientar sua visita. Comece pela biblioteca, explore os laboratórios ou conheça os jogos e projetos.</p><div class="judith-actions"><a href="#biblioteca" data-judith-close>Ir à biblioteca</a><a href="#laboratorios" class="secondary" data-judith-close>Ver laboratórios</a></div></section></div>
+<div class="drawer" id="drawer"><div class="drawer-bg" data-close></div><aside><button data-close aria-label="Fechar">×</button><div id="drawerContent"></div></aside></div>
+<div class="lab-modal" id="labModal"><div class="drawer-bg" data-lab-close></div><section><button data-lab-close aria-label="Fechar">×</button><div id="labContent"></div></section></div>
+<script src="script.js"></script>
+</body>
+</html>

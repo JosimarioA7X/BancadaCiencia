@@ -1,0 +1,3919 @@
+{
+  "metrics": {
+    "materials": 119,
+    "collections": 14,
+    "categories": 12,
+    "games": 5,
+    "teacher": 14,
+    "labs": 6,
+    "complete_pages": 5
+  },
+  "catalog": [
+    {
+      "id": 1,
+      "title": "1ª Monografia de Didática",
+      "category": "Formação Docente",
+      "type": "Plano/Aula",
+      "file": "1ª Monografia de Didática.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 2,
+      "title": "3 - Livro de Física",
+      "category": "Física",
+      "type": "Publicação",
+      "file": "3 - Livro de Física.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 3,
+      "title": "80 questões de ciências do Encceja",
+      "category": "Formação Docente",
+      "type": "Documento",
+      "file": "80 questões de ciências do Encceja.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 4,
+      "title": "Abelhas",
+      "category": "Biologia e Saúde",
+      "type": "Documento",
+      "file": "Abelhas.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 5,
+      "title": "Análise de Hemograma",
+      "category": "Biologia e Saúde",
+      "type": "Documento",
+      "file": "Análise de Hemograma.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 6,
+      "title": "Apresentação da Horta",
+      "category": "Meio Ambiente",
+      "type": "Documento",
+      "file": "Apresentação da Horta.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 7,
+      "title": "Aquecimento Global",
+      "category": "Meio Ambiente",
+      "type": "Documento",
+      "file": "Aquecimento Global.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 8,
+      "title": "Astronomia_",
+      "category": "Astronomia",
+      "type": "Documento",
+      "file": "Astronomia_.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 9,
+      "title": "Atividade Astronomia",
+      "category": "Astronomia",
+      "type": "Atividade",
+      "file": "Atividade Astronomia.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 10,
+      "title": "Atividade Forense DNA",
+      "category": "Biologia e Saúde",
+      "type": "Atividade",
+      "file": "Atividade Forense DNA.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 11,
+      "title": "Atividade PH",
+      "category": "Química",
+      "type": "Atividade",
+      "file": "Atividade PH.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 12,
+      "title": "Atividade mesa",
+      "category": "Jogos e Atividades",
+      "type": "Atividade",
+      "file": "Atividade mesa.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 14,
+      "title": "Atividade sobre Ecossistema Florestal e Necessidades das Plantas",
+      "category": "Meio Ambiente",
+      "type": "Atividade",
+      "file": "Atividade sobre Ecossistema Florestal e Necessidades das Plantas.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 15,
+      "title": "Atividades de Química_Energia",
+      "category": "Química",
+      "type": "Atividade",
+      "file": "Atividades de Química_Energia.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 16,
+      "title": "Atomística",
+      "category": "Química",
+      "type": "Documento",
+      "file": "Atomística.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 17,
+      "title": "Aula Biossegurança",
+      "category": "Biologia e Saúde",
+      "type": "Plano/Aula",
+      "file": "Aula Biossegurança.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 18,
+      "title": "Aula de Ecologia",
+      "category": "Meio Ambiente",
+      "type": "Plano/Aula",
+      "file": "Aula de Ecologia.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 19,
+      "title": "Aula radiação",
+      "category": "Física",
+      "type": "Plano/Aula",
+      "file": "Aula radiação.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 20,
+      "title": "Aula ultraprocessados",
+      "category": "Biologia e Saúde",
+      "type": "Plano/Aula",
+      "file": "Aula ultraprocessados.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 21,
+      "title": "BANCA_DA_CIENCIA",
+      "category": "Institucional",
+      "type": "Documento",
+      "file": "BANCA_DA_CIENCIA.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 22,
+      "title": "Breaking bad2222",
+      "category": "Química",
+      "type": "Documento",
+      "file": "Breaking bad2222.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 23,
+      "title": "Carbono14",
+      "category": "Química",
+      "type": "Documento",
+      "file": "Carbono14.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 24,
+      "title": "Caça ao Circuito",
+      "category": "Tecnologia e Robótica",
+      "type": "Documento",
+      "file": "Caça ao Circuito.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 25,
+      "title": "ChatGPT Image 10 de dez. de 2025, 09_34_51",
+      "category": "Multimídia",
+      "type": "Documento",
+      "file": "ChatGPT Image 10 de dez. de 2025, 09_34_51.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 26,
+      "title": "ChatGPT Image 5 de abr. de 2026, 23_10_55",
+      "category": "Multimídia",
+      "type": "Documento",
+      "file": "ChatGPT Image 5 de abr. de 2026, 23_10_55.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 27,
+      "title": "Combustiveis Renováveis",
+      "category": "Química",
+      "type": "Documento",
+      "file": "Combustiveis Renováveis.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 28,
+      "title": "Curiosidades Radioatividade",
+      "category": "Jogos e Atividades",
+      "type": "Atividade",
+      "file": "Curiosidades Radioatividade.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 29,
+      "title": "Cópia de Sensor Ultrassônico HC-SR04_",
+      "category": "Tecnologia e Robótica",
+      "type": "Projeto/Simulador",
+      "file": "Cópia de Sensor Ultrassônico HC-SR04_.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 30,
+      "title": "DIDÁTICA COM ANIMAIS",
+      "category": "Biologia e Saúde",
+      "type": "Plano/Aula",
+      "file": "DIDÁTICA COM ANIMAIS.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 31,
+      "title": "Desafio da Pirâmide Molecular",
+      "category": "Química",
+      "type": "Jogo",
+      "file": "Desafio da Pirâmide Molecular.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 32,
+      "title": "Detector de celular",
+      "category": "Tecnologia e Robótica",
+      "type": "Documento",
+      "file": "Detector de celular.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 34,
+      "title": "Dinâmica diagnóstica",
+      "category": "Jogos e Atividades",
+      "type": "Documento",
+      "file": "Dinâmica diagnóstica.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 35,
+      "title": "Eletromagnetismo",
+      "category": "Física",
+      "type": "Documento",
+      "file": "Eletromagnetismo.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 36,
+      "title": "Energias",
+      "category": "Biblioteca Geral",
+      "type": "Documento",
+      "file": "Energias.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 37,
+      "title": "Evolução",
+      "category": "Biologia e Saúde",
+      "type": "Documento",
+      "file": "Evolução.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 38,
+      "title": "Experimento cinética químics",
+      "category": "Química",
+      "type": "Atividade",
+      "file": "Experimento cinética químics.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 39,
+      "title": "Experimento probabilidade",
+      "category": "Biblioteca Geral",
+      "type": "Atividade",
+      "file": "Experimento probabilidade.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 40,
+      "title": "Experimentos do Lab",
+      "category": "Kits e Laboratório",
+      "type": "Atividade",
+      "file": "Experimentos do Lab.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 42,
+      "title": "Explicação",
+      "category": "Biblioteca Geral",
+      "type": "Documento",
+      "file": "Explicação.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 43,
+      "title": "Funções organicas",
+      "category": "Química",
+      "type": "Documento",
+      "file": "Funções organicas.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 44,
+      "title": "Física e Marcenaria",
+      "category": "Física",
+      "type": "Documento",
+      "file": "Física e Marcenaria.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 45,
+      "title": "Gases",
+      "category": "Física",
+      "type": "Documento",
+      "file": "Gases.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 46,
+      "title": "Gemini_Generated_Image_8ql7yl8ql7yl8ql7",
+      "category": "Multimídia",
+      "type": "Documento",
+      "file": "Gemini_Generated_Image_8ql7yl8ql7yl8ql7.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 47,
+      "title": "Gemini_Generated_Image_kwmirlkwmirlkwmi",
+      "category": "Multimídia",
+      "type": "Documento",
+      "file": "Gemini_Generated_Image_kwmirlkwmirlkwmi.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 48,
+      "title": "Guia_de_Desenvolvimento_BancaDaCiencia",
+      "category": "Institucional",
+      "type": "Documento",
+      "file": "Guia_de_Desenvolvimento_BancaDaCiencia.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 49,
+      "title": "Hortas-Urbanas-FINAL-bx-site",
+      "category": "Meio Ambiente",
+      "type": "Documento",
+      "file": "Hortas-Urbanas-FINAL-bx-site.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 50,
+      "title": "Jogo Competitivo_ Corrida das Massas Moleculares",
+      "category": "Química",
+      "type": "Jogo",
+      "file": "Jogo Competitivo_ Corrida das Massas Moleculares.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 51,
+      "title": "Jogos no Ensino de Ciências",
+      "category": "Jogos e Atividades",
+      "type": "Jogo",
+      "file": "Jogos no Ensino de Ciências.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 52,
+      "title": "Kits",
+      "category": "Kits e Laboratório",
+      "type": "Documento",
+      "file": "Kits.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 53,
+      "title": "Livro de Física",
+      "category": "Física",
+      "type": "Publicação",
+      "file": "Livro de Física.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 54,
+      "title": "Luz e Física Quântica",
+      "category": "Física",
+      "type": "Documento",
+      "file": "Luz e Física Quântica.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 55,
+      "title": "Maquinas Simples",
+      "category": "Física",
+      "type": "Documento",
+      "file": "Maquinas Simples.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 56,
+      "title": "Mergulho na Pressão – Modelagem da Hidrostática no Scratch",
+      "category": "Física",
+      "type": "Projeto/Simulador",
+      "file": "Mergulho na Pressão – Modelagem da Hidrostática no Scratch.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 57,
+      "title": "Minerais ECCE",
+      "category": "Química",
+      "type": "Documento",
+      "file": "Minerais ECCE.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 58,
+      "title": "Mineração",
+      "category": "Química",
+      "type": "Documento",
+      "file": "Mineração.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 59,
+      "title": "Minhocas e Compostagem",
+      "category": "Meio Ambiente",
+      "type": "Documento",
+      "file": "Minhocas e Compostagem.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 60,
+      "title": "Minimalist Abstract Flower Blank A4 Document",
+      "category": "Biblioteca Geral",
+      "type": "Documento",
+      "file": "Minimalist Abstract Flower Blank A4 Document .rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 61,
+      "title": "Nanotecnologia",
+      "category": "Química",
+      "type": "Documento",
+      "file": "Nanotecnologia.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 62,
+      "title": "O inseto transmissor da dengue é o mosquito Aedes Aegypti, que precisa de água parada para se proliferar.",
+      "category": "Biologia e Saúde",
+      "type": "Documento",
+      "file": "O inseto transmissor da dengue é o mosquito Aedes Aegypti, que precisa de água parada para se proliferar..rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 63,
+      "title": "Onda Eletromagnética",
+      "category": "Física",
+      "type": "Documento",
+      "file": "Onda Eletromagnética.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 64,
+      "title": "Onda Mecânica",
+      "category": "Física",
+      "type": "Documento",
+      "file": "Onda Mecânica.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 65,
+      "title": "Otica e física moderna - Young e Freedman",
+      "category": "Física",
+      "type": "Documento",
+      "file": "Otica e física moderna - Young e Freedman.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 66,
+      "title": "PH",
+      "category": "Química",
+      "type": "Documento",
+      "file": "PH.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 67,
+      "title": "Para colorir - medos",
+      "category": "Jogos e Atividades",
+      "type": "Documento",
+      "file": "Para colorir - medos.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 68,
+      "title": "Planos de aula SECI",
+      "category": "Biblioteca Geral",
+      "type": "Plano/Aula",
+      "file": "Planos de aula SECI.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 69,
+      "title": "Pressão de uma coluna de liquido",
+      "category": "Física",
+      "type": "Documento",
+      "file": "Pressão de uma coluna de liquido.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 70,
+      "title": "Pressão e Volume",
+      "category": "Física",
+      "type": "Documento",
+      "file": "Pressão e Volume.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 71,
+      "title": "Projetos",
+      "category": "Institucional",
+      "type": "Documento",
+      "file": "Projetos.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 73,
+      "title": "Propriedades Físicas",
+      "category": "Física",
+      "type": "Documento",
+      "file": "Propriedades Físicas.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 74,
+      "title": "Propriedades Periodicas",
+      "category": "Química",
+      "type": "Documento",
+      "file": "Propriedades Periodicas.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 75,
+      "title": "Prova Paulista",
+      "category": "Formação Docente",
+      "type": "Documento",
+      "file": "Prova Paulista.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 76,
+      "title": "Prática de astrometria",
+      "category": "Astronomia",
+      "type": "Atividade",
+      "file": "Prática de astrometria.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 77,
+      "title": "QRcode",
+      "category": "Tecnologia e Robótica",
+      "type": "Documento",
+      "file": "QRcode.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 78,
+      "title": "REVISTA CONHEÇA LCN",
+      "category": "Institucional",
+      "type": "Publicação",
+      "file": "REVISTA CONHEÇA LCN.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 79,
+      "title": "Raizes ideológicas do pensamento educacional brasileiro",
+      "category": "Formação Docente",
+      "type": "Documento",
+      "file": "Raizes ideológicas do pensamento educacional brasileiro.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 80,
+      "title": "Reagente Limitante com Hambúrgueres – Uma Atividade Lúdica",
+      "category": "Química",
+      "type": "Atividade",
+      "file": "Reagente Limitante com Hambúrgueres – Uma Atividade Lúdica.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 81,
+      "title": "Relatório de Análise do Processo Seletivo. Ronaldo",
+      "category": "Institucional",
+      "type": "Documento",
+      "file": "Relatório de Análise do Processo Seletivo. Ronaldo.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 82,
+      "title": "Relação de materiais disponíveis no laboratório",
+      "category": "Kits e Laboratório",
+      "type": "Documento",
+      "file": "Relação de materiais disponíveis no laboratório.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 83,
+      "title": "Repositório",
+      "category": "Institucional",
+      "type": "Documento",
+      "file": "Repositório.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 84,
+      "title": "Revisão Mecânica",
+      "category": "Física",
+      "type": "Plano/Aula",
+      "file": "Revisão Mecânica.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 85,
+      "title": "Revisão de trigonometria",
+      "category": "Formação Docente",
+      "type": "Plano/Aula",
+      "file": "Revisão de trigonometria.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 86,
+      "title": "Scratch",
+      "category": "Tecnologia e Robótica",
+      "type": "Projeto/Simulador",
+      "file": "Scratch.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 87,
+      "title": "Sensor ultrasônico",
+      "category": "Tecnologia e Robótica",
+      "type": "Projeto/Simulador",
+      "file": "Sensor ultrasônico.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 88,
+      "title": "Sequência Didática",
+      "category": "Formação Docente",
+      "type": "Plano/Aula",
+      "file": "Sequência Didática.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 89,
+      "title": "Solo",
+      "category": "Meio Ambiente",
+      "type": "Documento",
+      "file": "Solo.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 90,
+      "title": "Stop Motion",
+      "category": "Tecnologia e Robótica",
+      "type": "Vídeo/Multimídia",
+      "file": "Stop Motion.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 91,
+      "title": "Síntese de nanoparticulas de prata",
+      "category": "Química",
+      "type": "Documento",
+      "file": "Síntese de nanoparticulas de prata.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 92,
+      "title": "Tabela Periodica",
+      "category": "Química",
+      "type": "Documento",
+      "file": "Tabela Periodica.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 93,
+      "title": "Tarefa-Conhecendo as leis de reflexão da luz",
+      "category": "Física",
+      "type": "Atividade",
+      "file": "Tarefa-Conhecendo as leis de reflexão da luz.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 94,
+      "title": "Temperatura Global",
+      "category": "Física",
+      "type": "Documento",
+      "file": "Temperatura Global.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 95,
+      "title": "Teremin Virtual",
+      "category": "Física",
+      "type": "Projeto/Simulador",
+      "file": "Teremin Virtual.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 97,
+      "title": "Termodinâmica",
+      "category": "Física",
+      "type": "Documento",
+      "file": "Termodinâmica.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 98,
+      "title": "Turma-da-Risca",
+      "category": "Multimídia",
+      "type": "Documento",
+      "file": "Turma-da-Risca.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 99,
+      "title": "Videos legais",
+      "category": "Multimídia",
+      "type": "Vídeo/Multimídia",
+      "file": "Videos legais.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 101,
+      "title": "Voluntarios Judith",
+      "category": "Institucional",
+      "type": "Documento",
+      "file": "Voluntarios Judith.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 102,
+      "title": "arduinoRGB",
+      "category": "Tecnologia e Robótica",
+      "type": "Projeto/Simulador",
+      "file": "arduinoRGB.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 103,
+      "title": "atividade esperimental de espelhos",
+      "category": "Física",
+      "type": "Atividade",
+      "file": "atividade esperimental de espelhos.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 104,
+      "title": "atividade mizu_merged",
+      "category": "Jogos e Atividades",
+      "type": "Atividade",
+      "file": "atividade mizu_merged.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 105,
+      "title": "aula fungos",
+      "category": "Biologia e Saúde",
+      "type": "Plano/Aula",
+      "file": "aula fungos.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 106,
+      "title": "aula transmissão do HIV",
+      "category": "Biologia e Saúde",
+      "type": "Plano/Aula",
+      "file": "aula transmissão do HIV.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 107,
+      "title": "ciclos Biogeoquimicos",
+      "category": "Meio Ambiente",
+      "type": "Documento",
+      "file": "ciclos Biogeoquimicos.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 108,
+      "title": "cientistas",
+      "category": "Biblioteca Geral",
+      "type": "Documento",
+      "file": "cientistas.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 109,
+      "title": "copy_1A28A8C8-E1BE-4F80-97C2-12C4F248FE6F",
+      "category": "Biblioteca Geral",
+      "type": "Documento",
+      "file": "copy_1A28A8C8-E1BE-4F80-97C2-12C4F248FE6F.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 110,
+      "title": "copy_310E693F-F19E-4999-A5AD-215294647684",
+      "category": "Biblioteca Geral",
+      "type": "Documento",
+      "file": "copy_310E693F-F19E-4999-A5AD-215294647684.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 111,
+      "title": "copy_F039150F-8938-4928-83E8-5ADB995B27A5",
+      "category": "Biblioteca Geral",
+      "type": "Documento",
+      "file": "copy_F039150F-8938-4928-83E8-5ADB995B27A5.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 112,
+      "title": "código simples para testar arduino IDE + LED e resistores",
+      "category": "Tecnologia e Robótica",
+      "type": "Projeto/Simulador",
+      "file": "código simples para testar arduino IDE + LED e resistores.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 113,
+      "title": "exercicios de física",
+      "category": "Física",
+      "type": "Documento",
+      "file": "exercicios de física.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 114,
+      "title": "forense",
+      "category": "Biblioteca Geral",
+      "type": "Documento",
+      "file": "forense.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 116,
+      "title": "imagens",
+      "category": "Biblioteca Geral",
+      "type": "Documento",
+      "file": "imagens.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 117,
+      "title": "instagram oficial",
+      "category": "Institucional",
+      "type": "Documento",
+      "file": "instagram oficial.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 118,
+      "title": "jp6b08387_si_001",
+      "category": "Biblioteca Geral",
+      "type": "Documento",
+      "file": "jp6b08387_si_001.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 119,
+      "title": "lna_nt_2025_28-telescopio-em-ambiente-virtual-representacao-digital-e-estudo-de-movimento-do-perkin-elmer-1_60m",
+      "category": "Astronomia",
+      "type": "Projeto/Simulador",
+      "file": "lna_nt_2025_28-telescopio-em-ambiente-virtual-representacao-digital-e-estudo-de-movimento-do-perkin-elmer-1_60m.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 120,
+      "title": "octeto",
+      "category": "Química",
+      "type": "Documento",
+      "file": "octeto.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 121,
+      "title": "projeto espelho",
+      "category": "Física",
+      "type": "Documento",
+      "file": "projeto espelho.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 123,
+      "title": "rgb_game",
+      "category": "Tecnologia e Robótica",
+      "type": "Documento",
+      "file": "rgb_game.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 124,
+      "title": "telescopio",
+      "category": "Astronomia",
+      "type": "Projeto/Simulador",
+      "file": "telescopio.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 126,
+      "title": "termometro",
+      "category": "Biblioteca Geral",
+      "type": "Documento",
+      "file": "termometro.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 127,
+      "title": "tutorial SalsaJ",
+      "category": "Astronomia",
+      "type": "Publicação",
+      "file": "tutorial SalsaJ.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 128,
+      "title": "zine",
+      "category": "Multimídia",
+      "type": "Documento",
+      "file": "zine.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    }
+  ],
+  "collections": [
+    {
+      "id": 1,
+      "title": "Arduino e Sensores",
+      "category": "Tecnologia e Robótica",
+      "type": "Coleção temática",
+      "summary": "6 material(is) relacionado(s) reunido(s) nesta página temática.",
+      "resource_count": 6,
+      "resources": [
+        {
+          "title": "Caça ao Circuito",
+          "file": "Caça ao Circuito.rar",
+          "type": "Documento",
+          "category": "Tecnologia e Robótica"
+        },
+        {
+          "title": "Cópia de Sensor Ultrassônico HC-SR04_",
+          "file": "Cópia de Sensor Ultrassônico HC-SR04_.rar",
+          "type": "Projeto/Simulador",
+          "category": "Tecnologia e Robótica"
+        },
+        {
+          "title": "Detector de celular",
+          "file": "Detector de celular.rar",
+          "type": "Documento",
+          "category": "Tecnologia e Robótica"
+        },
+        {
+          "title": "arduinoRGB",
+          "file": "arduinoRGB.rar",
+          "type": "Projeto/Simulador",
+          "category": "Tecnologia e Robótica"
+        },
+        {
+          "title": "código simples para testar arduino IDE + LED e resistores",
+          "file": "código simples para testar arduino IDE + LED e resistores.rar",
+          "type": "Projeto/Simulador",
+          "category": "Tecnologia e Robótica"
+        },
+        {
+          "title": "rgb_game",
+          "file": "rgb_game.rar",
+          "type": "Documento",
+          "category": "Tecnologia e Robótica"
+        }
+      ],
+      "keywords": [
+        "arduino",
+        "arduinorgb",
+        "caca",
+        "celular",
+        "circuito",
+        "codigo",
+        "copia",
+        "detector",
+        "game",
+        "para",
+        "resistores",
+        "sensor",
+        "simples",
+        "sr04",
+        "testar",
+        "ultrassonico"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Biologia e Saúde",
+      "category": "Biologia e Saúde",
+      "type": "Coleção temática",
+      "summary": "8 material(is) relacionado(s) reunido(s) nesta página temática.",
+      "resource_count": 8,
+      "resources": [
+        {
+          "title": "Abelhas",
+          "file": "Abelhas.rar",
+          "type": "Documento",
+          "category": "Biologia e Saúde"
+        },
+        {
+          "title": "Análise de Hemograma",
+          "file": "Análise de Hemograma.rar",
+          "type": "Documento",
+          "category": "Biologia e Saúde"
+        },
+        {
+          "title": "Atividade Forense DNA",
+          "file": "Atividade Forense DNA.rar",
+          "type": "Atividade",
+          "category": "Biologia e Saúde"
+        },
+        {
+          "title": "Aula Biossegurança",
+          "file": "Aula Biossegurança.rar",
+          "type": "Plano/Aula",
+          "category": "Biologia e Saúde"
+        },
+        {
+          "title": "Evolução",
+          "file": "Evolução.rar",
+          "type": "Documento",
+          "category": "Biologia e Saúde"
+        },
+        {
+          "title": "O inseto transmissor da dengue é o mosquito Aedes Aegypti, que precisa de água parada para se proliferar.",
+          "file": "O inseto transmissor da dengue é o mosquito Aedes Aegypti, que precisa de água parada para se proliferar..rar",
+          "type": "Documento",
+          "category": "Biologia e Saúde"
+        },
+        {
+          "title": "aula fungos",
+          "file": "aula fungos.rar",
+          "type": "Plano/Aula",
+          "category": "Biologia e Saúde"
+        },
+        {
+          "title": "aula transmissão do HIV",
+          "file": "aula transmissão do HIV.rar",
+          "type": "Plano/Aula",
+          "category": "Biologia e Saúde"
+        }
+      ],
+      "keywords": [
+        "abelhas",
+        "aedes",
+        "aegypti",
+        "agua",
+        "analise",
+        "atividade",
+        "aula",
+        "biosseguranca",
+        "dengue",
+        "evolucao",
+        "forense",
+        "fungos",
+        "hemograma",
+        "inseto",
+        "mosquito",
+        "para",
+        "parada",
+        "precisa",
+        "proliferar",
+        "transmissao",
+        "transmissor"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Ecologia e Sustentabilidade",
+      "category": "Meio Ambiente",
+      "type": "Coleção temática",
+      "summary": "9 material(is) relacionado(s) reunido(s) nesta página temática.",
+      "resource_count": 9,
+      "resources": [
+        {
+          "title": "Apresentação da Horta",
+          "file": "Apresentação da Horta.rar",
+          "type": "Documento",
+          "category": "Meio Ambiente"
+        },
+        {
+          "title": "Aquecimento Global",
+          "file": "Aquecimento Global.rar",
+          "type": "Documento",
+          "category": "Meio Ambiente"
+        },
+        {
+          "title": "Atividade sobre Ecossistema Florestal e Necessidades das Plantas",
+          "file": "Atividade sobre Ecossistema Florestal e Necessidades das Plantas.rar",
+          "type": "Atividade",
+          "category": "Meio Ambiente"
+        },
+        {
+          "title": "Aula de Ecologia",
+          "file": "Aula de Ecologia.rar",
+          "type": "Plano/Aula",
+          "category": "Meio Ambiente"
+        },
+        {
+          "title": "Combustiveis Renováveis",
+          "file": "Combustiveis Renováveis.rar",
+          "type": "Documento",
+          "category": "Química"
+        },
+        {
+          "title": "Hortas-Urbanas-FINAL-bx-site",
+          "file": "Hortas-Urbanas-FINAL-bx-site.rar",
+          "type": "Documento",
+          "category": "Meio Ambiente"
+        },
+        {
+          "title": "Minhocas e Compostagem",
+          "file": "Minhocas e Compostagem.rar",
+          "type": "Documento",
+          "category": "Meio Ambiente"
+        },
+        {
+          "title": "Solo",
+          "file": "Solo.rar",
+          "type": "Documento",
+          "category": "Meio Ambiente"
+        },
+        {
+          "title": "Temperatura Global",
+          "file": "Temperatura Global.rar",
+          "type": "Documento",
+          "category": "Física"
+        }
+      ],
+      "keywords": [
+        "apresentacao",
+        "aquecimento",
+        "atividade",
+        "aula",
+        "combustiveis",
+        "compostagem",
+        "ecologia",
+        "ecossistema",
+        "final",
+        "florestal",
+        "global",
+        "horta",
+        "hortas",
+        "minhocas",
+        "necessidades",
+        "plantas",
+        "renovaveis",
+        "site",
+        "sobre",
+        "solo",
+        "temperatura",
+        "urbanas"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Jogos e Dinâmicas",
+      "category": "Jogos e Atividades",
+      "type": "Coleção temática",
+      "summary": "5 material(is) relacionado(s) reunido(s) nesta página temática.",
+      "resource_count": 5,
+      "resources": [
+        {
+          "title": "Atividade mesa",
+          "file": "Atividade mesa.rar",
+          "type": "Atividade",
+          "category": "Jogos e Atividades"
+        },
+        {
+          "title": "Breaking bad2222",
+          "file": "Breaking bad2222.rar",
+          "type": "Documento",
+          "category": "Química"
+        },
+        {
+          "title": "Dinâmica diagnóstica",
+          "file": "Dinâmica diagnóstica.rar",
+          "type": "Documento",
+          "category": "Jogos e Atividades"
+        },
+        {
+          "title": "Jogos no Ensino de Ciências",
+          "file": "Jogos no Ensino de Ciências.rar",
+          "type": "Jogo",
+          "category": "Jogos e Atividades"
+        },
+        {
+          "title": "Termodinâmica",
+          "file": "Termodinâmica.rar",
+          "type": "Documento",
+          "category": "Física"
+        }
+      ],
+      "keywords": [
+        "atividade",
+        "bad2222",
+        "breaking",
+        "ciencias",
+        "diagnostica",
+        "dinamica",
+        "ensino",
+        "jogos",
+        "mesa",
+        "termodinamica"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Kits e Experimentos",
+      "category": "Kits e Laboratório",
+      "type": "Coleção temática",
+      "summary": "4 material(is) relacionado(s) reunido(s) nesta página temática.",
+      "resource_count": 4,
+      "resources": [
+        {
+          "title": "Experimentos do Lab",
+          "file": "Experimentos do Lab.rar",
+          "type": "Atividade",
+          "category": "Kits e Laboratório"
+        },
+        {
+          "title": "Kits",
+          "file": "Kits.rar",
+          "type": "Documento",
+          "category": "Kits e Laboratório"
+        },
+        {
+          "title": "Projetos",
+          "file": "Projetos.rar",
+          "type": "Documento",
+          "category": "Institucional"
+        },
+        {
+          "title": "Relação de materiais disponíveis no laboratório",
+          "file": "Relação de materiais disponíveis no laboratório.rar",
+          "type": "Documento",
+          "category": "Kits e Laboratório"
+        }
+      ],
+      "keywords": [
+        "disponiveis",
+        "experimentos",
+        "kits",
+        "laboratorio",
+        "materiais",
+        "projetos",
+        "relacao"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Materiais Institucionais",
+      "category": "Institucional",
+      "type": "Coleção temática",
+      "summary": "7 material(is) relacionado(s) reunido(s) nesta página temática.",
+      "resource_count": 7,
+      "resources": [
+        {
+          "title": "BANCA_DA_CIENCIA",
+          "file": "BANCA_DA_CIENCIA.rar",
+          "type": "Documento",
+          "category": "Institucional"
+        },
+        {
+          "title": "Guia_de_Desenvolvimento_BancaDaCiencia",
+          "file": "Guia_de_Desenvolvimento_BancaDaCiencia.rar",
+          "type": "Documento",
+          "category": "Institucional"
+        },
+        {
+          "title": "REVISTA CONHEÇA LCN",
+          "file": "REVISTA CONHEÇA LCN.rar",
+          "type": "Publicação",
+          "category": "Institucional"
+        },
+        {
+          "title": "Relatório de Análise do Processo Seletivo. Ronaldo",
+          "file": "Relatório de Análise do Processo Seletivo. Ronaldo.rar",
+          "type": "Documento",
+          "category": "Institucional"
+        },
+        {
+          "title": "Repositório",
+          "file": "Repositório.rar",
+          "type": "Documento",
+          "category": "Institucional"
+        },
+        {
+          "title": "Voluntarios Judith",
+          "file": "Voluntarios Judith.rar",
+          "type": "Documento",
+          "category": "Institucional"
+        },
+        {
+          "title": "instagram oficial",
+          "file": "instagram oficial.rar",
+          "type": "Documento",
+          "category": "Institucional"
+        }
+      ],
+      "keywords": [
+        "analise",
+        "banca",
+        "bancadaciencia",
+        "ciencia",
+        "conheca",
+        "desenvolvimento",
+        "guia",
+        "instagram",
+        "judith",
+        "oficial",
+        "processo",
+        "relatorio",
+        "repositorio",
+        "revista",
+        "ronaldo",
+        "seletivo",
+        "voluntarios"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Ondas e Som",
+      "category": "Física",
+      "type": "Coleção temática",
+      "summary": "3 material(is) relacionado(s) reunido(s) nesta página temática.",
+      "resource_count": 3,
+      "resources": [
+        {
+          "title": "Onda Eletromagnética",
+          "file": "Onda Eletromagnética.rar",
+          "type": "Documento",
+          "category": "Física"
+        },
+        {
+          "title": "Onda Mecânica",
+          "file": "Onda Mecânica.rar",
+          "type": "Documento",
+          "category": "Física"
+        },
+        {
+          "title": "Teremin Virtual",
+          "file": "Teremin Virtual.rar",
+          "type": "Projeto/Simulador",
+          "category": "Física"
+        }
+      ],
+      "keywords": [
+        "eletromagnetica",
+        "mecanica",
+        "onda",
+        "teremin",
+        "virtual"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Outros materiais",
+      "category": "Biblioteca Geral",
+      "type": "Coleção temática",
+      "summary": "43 material(is) relacionado(s) reunido(s) nesta página temática.",
+      "resource_count": 43,
+      "resources": [
+        {
+          "title": "3 - Livro de Física",
+          "file": "3 - Livro de Física.rar",
+          "type": "Publicação",
+          "category": "Física"
+        },
+        {
+          "title": "Astronomia_",
+          "file": "Astronomia_.rar",
+          "type": "Documento",
+          "category": "Astronomia"
+        },
+        {
+          "title": "Atividade Astronomia",
+          "file": "Atividade Astronomia.rar",
+          "type": "Atividade",
+          "category": "Astronomia"
+        },
+        {
+          "title": "Atividades de Química_Energia",
+          "file": "Atividades de Química_Energia.rar",
+          "type": "Atividade",
+          "category": "Química"
+        },
+        {
+          "title": "Aula radiação",
+          "file": "Aula radiação.rar",
+          "type": "Plano/Aula",
+          "category": "Física"
+        },
+        {
+          "title": "Aula ultraprocessados",
+          "file": "Aula ultraprocessados.rar",
+          "type": "Plano/Aula",
+          "category": "Biologia e Saúde"
+        },
+        {
+          "title": "ChatGPT Image 10 de dez. de 2025, 09_34_51",
+          "file": "ChatGPT Image 10 de dez. de 2025, 09_34_51.rar",
+          "type": "Documento",
+          "category": "Multimídia"
+        },
+        {
+          "title": "ChatGPT Image 5 de abr. de 2026, 23_10_55",
+          "file": "ChatGPT Image 5 de abr. de 2026, 23_10_55.rar",
+          "type": "Documento",
+          "category": "Multimídia"
+        },
+        {
+          "title": "Desafio da Pirâmide Molecular",
+          "file": "Desafio da Pirâmide Molecular.rar",
+          "type": "Jogo",
+          "category": "Química"
+        },
+        {
+          "title": "Eletromagnetismo",
+          "file": "Eletromagnetismo.rar",
+          "type": "Documento",
+          "category": "Física"
+        },
+        {
+          "title": "Energias",
+          "file": "Energias.rar",
+          "type": "Documento",
+          "category": "Biblioteca Geral"
+        },
+        {
+          "title": "Experimento probabilidade",
+          "file": "Experimento probabilidade.rar",
+          "type": "Atividade",
+          "category": "Biblioteca Geral"
+        },
+        {
+          "title": "Explicação",
+          "file": "Explicação.rar",
+          "type": "Documento",
+          "category": "Biblioteca Geral"
+        },
+        {
+          "title": "Física e Marcenaria",
+          "file": "Física e Marcenaria.rar",
+          "type": "Documento",
+          "category": "Física"
+        },
+        {
+          "title": "Gemini_Generated_Image_8ql7yl8ql7yl8ql7",
+          "file": "Gemini_Generated_Image_8ql7yl8ql7yl8ql7.rar",
+          "type": "Documento",
+          "category": "Multimídia"
+        },
+        {
+          "title": "Gemini_Generated_Image_kwmirlkwmirlkwmi",
+          "file": "Gemini_Generated_Image_kwmirlkwmirlkwmi.rar",
+          "type": "Documento",
+          "category": "Multimídia"
+        },
+        {
+          "title": "Livro de Física",
+          "file": "Livro de Física.rar",
+          "type": "Publicação",
+          "category": "Física"
+        },
+        {
+          "title": "Maquinas Simples",
+          "file": "Maquinas Simples.rar",
+          "type": "Documento",
+          "category": "Física"
+        },
+        {
+          "title": "Minerais ECCE",
+          "file": "Minerais ECCE.rar",
+          "type": "Documento",
+          "category": "Química"
+        },
+        {
+          "title": "Mineração",
+          "file": "Mineração.rar",
+          "type": "Documento",
+          "category": "Química"
+        },
+        {
+          "title": "Minimalist Abstract Flower Blank A4 Document",
+          "file": "Minimalist Abstract Flower Blank A4 Document .rar",
+          "type": "Documento",
+          "category": "Biblioteca Geral"
+        },
+        {
+          "title": "Nanotecnologia",
+          "file": "Nanotecnologia.rar",
+          "type": "Documento",
+          "category": "Química"
+        },
+        {
+          "title": "Para colorir - medos",
+          "file": "Para colorir - medos.rar",
+          "type": "Documento",
+          "category": "Jogos e Atividades"
+        },
+        {
+          "title": "Propriedades Físicas",
+          "file": "Propriedades Físicas.rar",
+          "type": "Documento",
+          "category": "Física"
+        },
+        {
+          "title": "QRcode",
+          "file": "QRcode.rar",
+          "type": "Documento",
+          "category": "Tecnologia e Robótica"
+        },
+        {
+          "title": "Raizes ideológicas do pensamento educacional brasileiro",
+          "file": "Raizes ideológicas do pensamento educacional brasileiro.rar",
+          "type": "Documento",
+          "category": "Formação Docente"
+        },
+        {
+          "title": "Scratch",
+          "file": "Scratch.rar",
+          "type": "Projeto/Simulador",
+          "category": "Tecnologia e Robótica"
+        },
+        {
+          "title": "Sensor ultrasônico",
+          "file": "Sensor ultrasônico.rar",
+          "type": "Projeto/Simulador",
+          "category": "Tecnologia e Robótica"
+        },
+        {
+          "title": "Stop Motion",
+          "file": "Stop Motion.rar",
+          "type": "Vídeo/Multimídia",
+          "category": "Tecnologia e Robótica"
+        },
+        {
+          "title": "Turma-da-Risca",
+          "file": "Turma-da-Risca.rar",
+          "type": "Documento",
+          "category": "Multimídia"
+        },
+        {
+          "title": "Videos legais",
+          "file": "Videos legais.rar",
+          "type": "Vídeo/Multimídia",
+          "category": "Multimídia"
+        },
+        {
+          "title": "atividade mizu_merged",
+          "file": "atividade mizu_merged.rar",
+          "type": "Atividade",
+          "category": "Jogos e Atividades"
+        },
+        {
+          "title": "ciclos Biogeoquimicos",
+          "file": "ciclos Biogeoquimicos.rar",
+          "type": "Documento",
+          "category": "Meio Ambiente"
+        },
+        {
+          "title": "cientistas",
+          "file": "cientistas.rar",
+          "type": "Documento",
+          "category": "Biblioteca Geral"
+        },
+        {
+          "title": "copy_1A28A8C8-E1BE-4F80-97C2-12C4F248FE6F",
+          "file": "copy_1A28A8C8-E1BE-4F80-97C2-12C4F248FE6F.rar",
+          "type": "Documento",
+          "category": "Biblioteca Geral"
+        },
+        {
+          "title": "copy_310E693F-F19E-4999-A5AD-215294647684",
+          "file": "copy_310E693F-F19E-4999-A5AD-215294647684.rar",
+          "type": "Documento",
+          "category": "Biblioteca Geral"
+        },
+        {
+          "title": "copy_F039150F-8938-4928-83E8-5ADB995B27A5",
+          "file": "copy_F039150F-8938-4928-83E8-5ADB995B27A5.rar",
+          "type": "Documento",
+          "category": "Biblioteca Geral"
+        },
+        {
+          "title": "exercicios de física",
+          "file": "exercicios de física.rar",
+          "type": "Documento",
+          "category": "Física"
+        },
+        {
+          "title": "forense",
+          "file": "forense.rar",
+          "type": "Documento",
+          "category": "Biblioteca Geral"
+        },
+        {
+          "title": "imagens",
+          "file": "imagens.rar",
+          "type": "Documento",
+          "category": "Biblioteca Geral"
+        },
+        {
+          "title": "jp6b08387_si_001",
+          "file": "jp6b08387_si_001.rar",
+          "type": "Documento",
+          "category": "Biblioteca Geral"
+        },
+        {
+          "title": "termometro",
+          "file": "termometro.rar",
+          "type": "Documento",
+          "category": "Biblioteca Geral"
+        },
+        {
+          "title": "zine",
+          "file": "zine.rar",
+          "type": "Documento",
+          "category": "Multimídia"
+        }
+      ],
+      "keywords": [
+        "12c4f248fe6f",
+        "1a28a8c8",
+        "2025",
+        "2026",
+        "215294647684",
+        "310e693f",
+        "4928",
+        "4999",
+        "4f80",
+        "5adb995b27a5",
+        "83e8",
+        "8938",
+        "8ql7yl8ql7yl8ql7",
+        "97c2",
+        "a5ad",
+        "abstract",
+        "astronomia",
+        "atividade",
+        "atividades",
+        "aula",
+        "biogeoquimicos",
+        "blank",
+        "brasileiro",
+        "chatgpt",
+        "ciclos",
+        "cientistas",
+        "colorir",
+        "copy",
+        "desafio",
+        "document"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Planos e Formação Docente",
+      "category": "Formação Docente",
+      "type": "Coleção temática",
+      "summary": "8 material(is) relacionado(s) reunido(s) nesta página temática.",
+      "resource_count": 8,
+      "resources": [
+        {
+          "title": "1ª Monografia de Didática",
+          "file": "1ª Monografia de Didática.rar",
+          "type": "Plano/Aula",
+          "category": "Formação Docente"
+        },
+        {
+          "title": "80 questões de ciências do Encceja",
+          "file": "80 questões de ciências do Encceja.rar",
+          "type": "Documento",
+          "category": "Formação Docente"
+        },
+        {
+          "title": "DIDÁTICA COM ANIMAIS",
+          "file": "DIDÁTICA COM ANIMAIS.rar",
+          "type": "Plano/Aula",
+          "category": "Biologia e Saúde"
+        },
+        {
+          "title": "Planos de aula SECI",
+          "file": "Planos de aula SECI.rar",
+          "type": "Plano/Aula",
+          "category": "Biblioteca Geral"
+        },
+        {
+          "title": "Prova Paulista",
+          "file": "Prova Paulista.rar",
+          "type": "Documento",
+          "category": "Formação Docente"
+        },
+        {
+          "title": "Revisão Mecânica",
+          "file": "Revisão Mecânica.rar",
+          "type": "Plano/Aula",
+          "category": "Física"
+        },
+        {
+          "title": "Revisão de trigonometria",
+          "file": "Revisão de trigonometria.rar",
+          "type": "Plano/Aula",
+          "category": "Formação Docente"
+        },
+        {
+          "title": "Sequência Didática",
+          "file": "Sequência Didática.rar",
+          "type": "Plano/Aula",
+          "category": "Formação Docente"
+        }
+      ],
+      "keywords": [
+        "animais",
+        "aula",
+        "ciencias",
+        "didatica",
+        "encceja",
+        "mecanica",
+        "monografia",
+        "paulista",
+        "planos",
+        "prova",
+        "questoes",
+        "revisao",
+        "seci",
+        "sequencia",
+        "trigonometria"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Pressão e Hidrostática",
+      "category": "Física",
+      "type": "Coleção temática",
+      "summary": "3 material(is) relacionado(s) reunido(s) nesta página temática.",
+      "resource_count": 3,
+      "resources": [
+        {
+          "title": "Mergulho na Pressão – Modelagem da Hidrostática no Scratch",
+          "file": "Mergulho na Pressão – Modelagem da Hidrostática no Scratch.rar",
+          "type": "Projeto/Simulador",
+          "category": "Física"
+        },
+        {
+          "title": "Pressão de uma coluna de liquido",
+          "file": "Pressão de uma coluna de liquido.rar",
+          "type": "Documento",
+          "category": "Física"
+        },
+        {
+          "title": "Pressão e Volume",
+          "file": "Pressão e Volume.rar",
+          "type": "Documento",
+          "category": "Física"
+        }
+      ],
+      "keywords": [
+        "coluna",
+        "hidrostatica",
+        "liquido",
+        "mergulho",
+        "modelagem",
+        "pressao",
+        "scratch",
+        "volume"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Química Experimental",
+      "category": "Química",
+      "type": "Coleção temática",
+      "summary": "6 material(is) relacionado(s) reunido(s) nesta página temática.",
+      "resource_count": 6,
+      "resources": [
+        {
+          "title": "Carbono14",
+          "file": "Carbono14.rar",
+          "type": "Documento",
+          "category": "Química"
+        },
+        {
+          "title": "Curiosidades Radioatividade",
+          "file": "Curiosidades Radioatividade.rar",
+          "type": "Atividade",
+          "category": "Jogos e Atividades"
+        },
+        {
+          "title": "Experimento cinética químics",
+          "file": "Experimento cinética químics.rar",
+          "type": "Atividade",
+          "category": "Química"
+        },
+        {
+          "title": "Jogo Competitivo_ Corrida das Massas Moleculares",
+          "file": "Jogo Competitivo_ Corrida das Massas Moleculares.rar",
+          "type": "Jogo",
+          "category": "Química"
+        },
+        {
+          "title": "Reagente Limitante com Hambúrgueres – Uma Atividade Lúdica",
+          "file": "Reagente Limitante com Hambúrgueres – Uma Atividade Lúdica.rar",
+          "type": "Atividade",
+          "category": "Química"
+        },
+        {
+          "title": "Síntese de nanoparticulas de prata",
+          "file": "Síntese de nanoparticulas de prata.rar",
+          "type": "Documento",
+          "category": "Química"
+        }
+      ],
+      "keywords": [
+        "atividade",
+        "carbono14",
+        "cinetica",
+        "competitivo",
+        "corrida",
+        "curiosidades",
+        "experimento",
+        "hamburgueres",
+        "jogo",
+        "limitante",
+        "ludica",
+        "massas",
+        "moleculares",
+        "nanoparticulas",
+        "prata",
+        "quimics",
+        "radioatividade",
+        "reagente",
+        "sintese"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Química Geral",
+      "category": "Química",
+      "type": "Coleção temática",
+      "summary": "8 material(is) relacionado(s) reunido(s) nesta página temática.",
+      "resource_count": 8,
+      "resources": [
+        {
+          "title": "Atividade PH",
+          "file": "Atividade PH.rar",
+          "type": "Atividade",
+          "category": "Química"
+        },
+        {
+          "title": "Atomística",
+          "file": "Atomística.rar",
+          "type": "Documento",
+          "category": "Química"
+        },
+        {
+          "title": "Funções organicas",
+          "file": "Funções organicas.rar",
+          "type": "Documento",
+          "category": "Química"
+        },
+        {
+          "title": "Gases",
+          "file": "Gases.rar",
+          "type": "Documento",
+          "category": "Física"
+        },
+        {
+          "title": "PH",
+          "file": "PH.rar",
+          "type": "Documento",
+          "category": "Química"
+        },
+        {
+          "title": "Propriedades Periodicas",
+          "file": "Propriedades Periodicas.rar",
+          "type": "Documento",
+          "category": "Química"
+        },
+        {
+          "title": "Tabela Periodica",
+          "file": "Tabela Periodica.rar",
+          "type": "Documento",
+          "category": "Química"
+        },
+        {
+          "title": "octeto",
+          "file": "octeto.rar",
+          "type": "Documento",
+          "category": "Química"
+        }
+      ],
+      "keywords": [
+        "atividade",
+        "atomistica",
+        "funcoes",
+        "gases",
+        "octeto",
+        "organicas",
+        "periodica",
+        "periodicas",
+        "propriedades",
+        "tabela"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Telescópio e Astrometria",
+      "category": "Astronomia",
+      "type": "Coleção temática",
+      "summary": "4 material(is) relacionado(s) reunido(s) nesta página temática.",
+      "resource_count": 4,
+      "resources": [
+        {
+          "title": "Prática de astrometria",
+          "file": "Prática de astrometria.rar",
+          "type": "Atividade",
+          "category": "Astronomia"
+        },
+        {
+          "title": "lna_nt_2025_28-telescopio-em-ambiente-virtual-representacao-digital-e-estudo-de-movimento-do-perkin-elmer-1_60m",
+          "file": "lna_nt_2025_28-telescopio-em-ambiente-virtual-representacao-digital-e-estudo-de-movimento-do-perkin-elmer-1_60m.rar",
+          "type": "Projeto/Simulador",
+          "category": "Astronomia"
+        },
+        {
+          "title": "telescopio",
+          "file": "telescopio.rar",
+          "type": "Projeto/Simulador",
+          "category": "Astronomia"
+        },
+        {
+          "title": "tutorial SalsaJ",
+          "file": "tutorial SalsaJ.rar",
+          "type": "Publicação",
+          "category": "Astronomia"
+        }
+      ],
+      "keywords": [
+        "2025",
+        "ambiente",
+        "astrometria",
+        "digital",
+        "elmer",
+        "estudo",
+        "movimento",
+        "perkin",
+        "pratica",
+        "representacao",
+        "salsaj",
+        "telescopio",
+        "tutorial",
+        "virtual"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Óptica e Espelhos",
+      "category": "Física",
+      "type": "Coleção temática",
+      "summary": "5 material(is) relacionado(s) reunido(s) nesta página temática.",
+      "resource_count": 5,
+      "resources": [
+        {
+          "title": "Luz e Física Quântica",
+          "file": "Luz e Física Quântica.rar",
+          "type": "Documento",
+          "category": "Física"
+        },
+        {
+          "title": "Otica e física moderna - Young e Freedman",
+          "file": "Otica e física moderna - Young e Freedman.rar",
+          "type": "Documento",
+          "category": "Física"
+        },
+        {
+          "title": "Tarefa-Conhecendo as leis de reflexão da luz",
+          "file": "Tarefa-Conhecendo as leis de reflexão da luz.rar",
+          "type": "Atividade",
+          "category": "Física"
+        },
+        {
+          "title": "atividade esperimental de espelhos",
+          "file": "atividade esperimental de espelhos.rar",
+          "type": "Atividade",
+          "category": "Física"
+        },
+        {
+          "title": "projeto espelho",
+          "file": "projeto espelho.rar",
+          "type": "Documento",
+          "category": "Física"
+        }
+      ],
+      "keywords": [
+        "atividade",
+        "conhecendo",
+        "espelho",
+        "espelhos",
+        "esperimental",
+        "fisica",
+        "freedman",
+        "leis",
+        "moderna",
+        "otica",
+        "projeto",
+        "quantica",
+        "reflexao",
+        "tarefa",
+        "young"
+      ]
+    }
+  ],
+  "games": [
+    {
+      "id": 22,
+      "title": "Breaking bad2222",
+      "category": "Química",
+      "type": "Documento",
+      "file": "Breaking bad2222.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 31,
+      "title": "Desafio da Pirâmide Molecular",
+      "category": "Química",
+      "type": "Jogo",
+      "file": "Desafio da Pirâmide Molecular.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 39,
+      "title": "Experimento probabilidade",
+      "category": "Biblioteca Geral",
+      "type": "Atividade",
+      "file": "Experimento probabilidade.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 50,
+      "title": "Jogo Competitivo_ Corrida das Massas Moleculares",
+      "category": "Química",
+      "type": "Jogo",
+      "file": "Jogo Competitivo_ Corrida das Massas Moleculares.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 51,
+      "title": "Jogos no Ensino de Ciências",
+      "category": "Jogos e Atividades",
+      "type": "Jogo",
+      "file": "Jogos no Ensino de Ciências.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    }
+  ],
+  "teacher_resources": [
+    {
+      "id": 1,
+      "title": "1ª Monografia de Didática",
+      "category": "Formação Docente",
+      "type": "Plano/Aula",
+      "file": "1ª Monografia de Didática.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 3,
+      "title": "80 questões de ciências do Encceja",
+      "category": "Formação Docente",
+      "type": "Documento",
+      "file": "80 questões de ciências do Encceja.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 17,
+      "title": "Aula Biossegurança",
+      "category": "Biologia e Saúde",
+      "type": "Plano/Aula",
+      "file": "Aula Biossegurança.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 18,
+      "title": "Aula de Ecologia",
+      "category": "Meio Ambiente",
+      "type": "Plano/Aula",
+      "file": "Aula de Ecologia.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 19,
+      "title": "Aula radiação",
+      "category": "Física",
+      "type": "Plano/Aula",
+      "file": "Aula radiação.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 20,
+      "title": "Aula ultraprocessados",
+      "category": "Biologia e Saúde",
+      "type": "Plano/Aula",
+      "file": "Aula ultraprocessados.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 30,
+      "title": "DIDÁTICA COM ANIMAIS",
+      "category": "Biologia e Saúde",
+      "type": "Plano/Aula",
+      "file": "DIDÁTICA COM ANIMAIS.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 68,
+      "title": "Planos de aula SECI",
+      "category": "Biblioteca Geral",
+      "type": "Plano/Aula",
+      "file": "Planos de aula SECI.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 75,
+      "title": "Prova Paulista",
+      "category": "Formação Docente",
+      "type": "Documento",
+      "file": "Prova Paulista.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 84,
+      "title": "Revisão Mecânica",
+      "category": "Física",
+      "type": "Plano/Aula",
+      "file": "Revisão Mecânica.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 85,
+      "title": "Revisão de trigonometria",
+      "category": "Formação Docente",
+      "type": "Plano/Aula",
+      "file": "Revisão de trigonometria.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 88,
+      "title": "Sequência Didática",
+      "category": "Formação Docente",
+      "type": "Plano/Aula",
+      "file": "Sequência Didática.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 105,
+      "title": "aula fungos",
+      "category": "Biologia e Saúde",
+      "type": "Plano/Aula",
+      "file": "aula fungos.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    },
+    {
+      "id": 106,
+      "title": "aula transmissão do HIV",
+      "category": "Biologia e Saúde",
+      "type": "Plano/Aula",
+      "file": "aula transmissão do HIV.rar",
+      "status": "Recebido — conteúdo aguardando catalogação detalhada"
+    }
+  ],
+  "featured_pages": [
+    {
+      "slug": "telescopio-em-ambiente-virtual",
+      "title": "Telescópio em Ambiente Virtual",
+      "area": "Astronomia",
+      "summary": "Simulador para explorar orientação espacial, altitude, azimute e movimento de um telescópio.",
+      "objectives": [
+        "Compreender altitude e azimute",
+        "Relacionar movimento e observação astronômica"
+      ],
+      "materials": [
+        "Computador ou celular",
+        "Navegador atualizado"
+      ],
+      "procedure": [
+        "Abra o simulador",
+        "Ajuste altitude e azimute",
+        "Observe o alinhamento",
+        "Registre suas conclusões"
+      ],
+      "concepts": [
+        "Astronomia",
+        "Coordenadas celestes",
+        "Instrumentação"
+      ]
+    },
+    {
+      "slug": "pressao-de-uma-coluna-de-liquido",
+      "title": "Pressão de uma Coluna de Líquido",
+      "area": "Física",
+      "summary": "Atividade de hidrostática para investigar a relação entre densidade, gravidade, profundidade e pressão.",
+      "objectives": [
+        "Aplicar P = ρgh",
+        "Comparar diferentes líquidos e gravidades"
+      ],
+      "materials": [
+        "Simulador",
+        "Calculadora opcional"
+      ],
+      "procedure": [
+        "Escolha a profundidade",
+        "Ajuste a densidade",
+        "Compare os resultados",
+        "Explique as diferenças"
+      ],
+      "concepts": [
+        "Hidrostática",
+        "Densidade",
+        "Pressão"
+      ]
+    },
+    {
+      "slug": "arduino-rgb",
+      "title": "Arduino RGB",
+      "area": "Tecnologia e Robótica",
+      "summary": "Experiência para estudar mistura aditiva de luz e programação de LEDs RGB.",
+      "objectives": [
+        "Compreender mistura aditiva",
+        "Relacionar valores RGB e cor percebida"
+      ],
+      "materials": [
+        "Arduino",
+        "LED RGB",
+        "Resistores",
+        "Protoboard"
+      ],
+      "procedure": [
+        "Monte o circuito",
+        "Carregue o código",
+        "Altere os canais RGB",
+        "Registre as cores obtidas"
+      ],
+      "concepts": [
+        "Arduino",
+        "Óptica",
+        "Programação"
+      ]
+    },
+    {
+      "slug": "teremin-virtual",
+      "title": "Teremin Virtual",
+      "area": "Física",
+      "summary": "Instrumento virtual para investigar frequência, altura sonora e controle gestual.",
+      "objectives": [
+        "Relacionar frequência e altura sonora",
+        "Explorar interação gestual"
+      ],
+      "materials": [
+        "Computador com navegador"
+      ],
+      "procedure": [
+        "Mova o cursor na horizontal",
+        "Altere o volume na vertical",
+        "Compare frequências",
+        "Crie uma sequência sonora"
+      ],
+      "concepts": [
+        "Som",
+        "Frequência",
+        "Ondas"
+      ]
+    },
+    {
+      "slug": "kits-da-banca",
+      "title": "Kits da Banca da Ciência",
+      "area": "Kits e Laboratório",
+      "summary": "Catálogo de propostas experimentais para oficinas, escolas e ações de divulgação científica.",
+      "objectives": [
+        "Organizar o acervo experimental",
+        "Facilitar a escolha de atividades"
+      ],
+      "materials": [
+        "Variáveis conforme o kit"
+      ],
+      "procedure": [
+        "Escolha um kit",
+        "Leia a proposta",
+        "Separe os materiais",
+        "Realize a atividade com segurança"
+      ],
+      "concepts": [
+        "Experimentação",
+        "Divulgação científica",
+        "Educação"
+      ]
+    }
+  ],
+  "verified_labs": {
+    "telescopio": {
+      "title": "Telescópio em Ambiente Virtual",
+      "category": "Astronomia",
+      "type": "Laboratório Virtual",
+      "summary": "Simulador tridimensional de telescópio com base, eixo e tubo, acompanhado de explicação pedagógica.",
+      "source": "telescopio.rar",
+      "source_files": [
+        "index.html",
+        "sketch.js",
+        "style.css",
+        "assets/base.obj",
+        "assets/eixo.obj",
+        "assets/tubo.obj",
+        "Explicação.docx"
+      ],
+      "concepts": [
+        "movimento",
+        "orientação espacial",
+        "instrumentação astronômica"
+      ]
+    },
+    "teremin": {
+      "title": "Teremin Virtual",
+      "category": "Física",
+      "type": "Laboratório Virtual",
+      "summary": "Experiência virtual inspirada no teremim para investigar frequência, altura sonora e controle gestual.",
+      "source": "Teremin Virtual.rar",
+      "source_files": [
+        "teremin.html",
+        "Explicação.docx",
+        "exemplo de como deve ficar.png"
+      ],
+      "concepts": [
+        "som",
+        "frequência",
+        "ondas",
+        "interação"
+      ]
+    },
+    "pressao": {
+      "title": "Pressão de uma Coluna de Líquido",
+      "category": "Física",
+      "type": "Laboratório Virtual",
+      "summary": "Atividade de hidrostática com código Python e Arduino para relacionar profundidade, densidade e pressão.",
+      "source": "Pressão de uma coluna de liquido.rar",
+      "source_files": [
+        "Documento sem título.docx",
+        "hidrostática (1).py",
+        "IDE.ino",
+        "volume/volume.ino"
+      ],
+      "concepts": [
+        "hidrostática",
+        "densidade",
+        "profundidade",
+        "pressão"
+      ]
+    },
+    "rgb": {
+      "title": "Mistura Aditiva RGB",
+      "category": "Tecnologia e Robótica",
+      "type": "Laboratório Virtual",
+      "summary": "Atividade baseada em Arduino RGB para explorar mistura aditiva de luz e controle de LEDs.",
+      "source": "arduinoRGB.rar",
+      "source_files": [
+        "arduinoRGB.ino",
+        "data/index.html"
+      ],
+      "concepts": [
+        "Arduino",
+        "LED",
+        "mistura aditiva",
+        "programação"
+      ]
+    },
+    "kits": {
+      "title": "Catálogo de Kits da Banca",
+      "category": "Kits e Laboratório",
+      "type": "Catálogo",
+      "summary": "Coleção de kits experimentais da Banca da Ciência, incluindo hidráulica, astronomia, DNA, robótica e energia.",
+      "source": "Kits.rar",
+      "source_files": [
+        "Prensa hidráulica",
+        "Sistema solar em escala de tamanho",
+        "Extração de DNA",
+        "Bomba de Arquimedes",
+        "Base para lançamento de foguetes PET",
+        "Tornados",
+        "Globos solares",
+        "Equilíbrios",
+        "Maquete explorando Marte",
+        "Estações do ano",
+        "Vulcão didático",
+        "Câmara escura",
+        "Oficinas robôs escovas",
+        "Pasta de dente de elefante",
+        "Mão robótica",
+        "Investigando diferentes solos",
+        "Imagem do som",
+        "Energia eólica",
+        "Princípio de Arquimedes"
+      ],
+      "concepts": [
+        "experimentação",
+        "baixo custo",
+        "oficinas",
+        "educação científica"
+      ]
+    }
+  },
+  "category_counts": {
+    "Formação Docente": 6,
+    "Física": 23,
+    "Biologia e Saúde": 10,
+    "Meio Ambiente": 8,
+    "Astronomia": 6,
+    "Química": 19,
+    "Jogos e Atividades": 6,
+    "Institucional": 8,
+    "Tecnologia e Robótica": 10,
+    "Multimídia": 7,
+    "Biblioteca Geral": 13,
+    "Kits e Laboratório": 3
+  },
+  "type_counts": {
+    "Plano/Aula": 12,
+    "Publicação": 4,
+    "Documento": 74,
+    "Atividade": 15,
+    "Projeto/Simulador": 9,
+    "Jogo": 3,
+    "Vídeo/Multimídia": 2
+  },
+  "details": {
+    "1": {
+      "id": 1,
+      "title": "1ª Monografia de Didática",
+      "area": "Formação Docente",
+      "type": "Plano/Aula",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "1ª Monografia de Didática.rar"
+    },
+    "2": {
+      "id": 2,
+      "title": "3 - Livro de Física",
+      "area": "Física",
+      "type": "Publicação",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "3 - Livro de Física.rar"
+    },
+    "3": {
+      "id": 3,
+      "title": "80 questões de ciências do Encceja",
+      "area": "Formação Docente",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "80 questões de ciências do Encceja.rar"
+    },
+    "4": {
+      "id": 4,
+      "title": "Abelhas",
+      "area": "Biologia e Saúde",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Abelhas.rar"
+    },
+    "5": {
+      "id": 5,
+      "title": "Análise de Hemograma",
+      "area": "Biologia e Saúde",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Análise de Hemograma.rar"
+    },
+    "6": {
+      "id": 6,
+      "title": "Apresentação da Horta",
+      "area": "Meio Ambiente",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Apresentação da Horta.rar"
+    },
+    "7": {
+      "id": 7,
+      "title": "Aquecimento Global",
+      "area": "Meio Ambiente",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Aquecimento Global.rar"
+    },
+    "8": {
+      "id": 8,
+      "title": "Astronomia_",
+      "area": "Astronomia",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Astronomia_.rar"
+    },
+    "9": {
+      "id": 9,
+      "title": "Atividade Astronomia",
+      "area": "Astronomia",
+      "type": "Atividade",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Atividade Astronomia.rar"
+    },
+    "10": {
+      "id": 10,
+      "title": "Atividade Forense DNA",
+      "area": "Biologia e Saúde",
+      "type": "Atividade",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Atividade Forense DNA.rar"
+    },
+    "11": {
+      "id": 11,
+      "title": "Atividade PH",
+      "area": "Química",
+      "type": "Atividade",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Atividade PH.rar"
+    },
+    "12": {
+      "id": 12,
+      "title": "Atividade mesa",
+      "area": "Jogos e Atividades",
+      "type": "Atividade",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Atividade mesa.rar"
+    },
+    "14": {
+      "id": 14,
+      "title": "Atividade sobre Ecossistema Florestal e Necessidades das Plantas",
+      "area": "Meio Ambiente",
+      "type": "Atividade",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Atividade sobre Ecossistema Florestal e Necessidades das Plantas.rar"
+    },
+    "15": {
+      "id": 15,
+      "title": "Atividades de Química_Energia",
+      "area": "Química",
+      "type": "Atividade",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Atividades de Química_Energia.rar"
+    },
+    "16": {
+      "id": 16,
+      "title": "Atomística",
+      "area": "Química",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Atomística.rar"
+    },
+    "17": {
+      "id": 17,
+      "title": "Aula Biossegurança",
+      "area": "Biologia e Saúde",
+      "type": "Plano/Aula",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Aula Biossegurança.rar"
+    },
+    "18": {
+      "id": 18,
+      "title": "Aula de Ecologia",
+      "area": "Meio Ambiente",
+      "type": "Plano/Aula",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Aula de Ecologia.rar"
+    },
+    "19": {
+      "id": 19,
+      "title": "Aula radiação",
+      "area": "Física",
+      "type": "Plano/Aula",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Aula radiação.rar"
+    },
+    "20": {
+      "id": 20,
+      "title": "Aula ultraprocessados",
+      "area": "Biologia e Saúde",
+      "type": "Plano/Aula",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Aula ultraprocessados.rar"
+    },
+    "21": {
+      "id": 21,
+      "title": "BANCA_DA_CIENCIA",
+      "area": "Institucional",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "BANCA_DA_CIENCIA.rar"
+    },
+    "22": {
+      "id": 22,
+      "title": "Breaking bad2222",
+      "area": "Química",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Breaking bad2222.rar"
+    },
+    "23": {
+      "id": 23,
+      "title": "Carbono14",
+      "area": "Química",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Carbono14.rar"
+    },
+    "24": {
+      "id": 24,
+      "title": "Caça ao Circuito",
+      "area": "Tecnologia e Robótica",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Caça ao Circuito.rar"
+    },
+    "25": {
+      "id": 25,
+      "title": "ChatGPT Image 10 de dez. de 2025, 09_34_51",
+      "area": "Multimídia",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "ChatGPT Image 10 de dez. de 2025, 09_34_51.rar"
+    },
+    "26": {
+      "id": 26,
+      "title": "ChatGPT Image 5 de abr. de 2026, 23_10_55",
+      "area": "Multimídia",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "ChatGPT Image 5 de abr. de 2026, 23_10_55.rar"
+    },
+    "27": {
+      "id": 27,
+      "title": "Combustiveis Renováveis",
+      "area": "Química",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Combustiveis Renováveis.rar"
+    },
+    "28": {
+      "id": 28,
+      "title": "Curiosidades Radioatividade",
+      "area": "Jogos e Atividades",
+      "type": "Atividade",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Curiosidades Radioatividade.rar"
+    },
+    "29": {
+      "id": 29,
+      "title": "Cópia de Sensor Ultrassônico HC-SR04_",
+      "area": "Tecnologia e Robótica",
+      "type": "Projeto/Simulador",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Cópia de Sensor Ultrassônico HC-SR04_.rar"
+    },
+    "30": {
+      "id": 30,
+      "title": "DIDÁTICA COM ANIMAIS",
+      "area": "Biologia e Saúde",
+      "type": "Plano/Aula",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "DIDÁTICA COM ANIMAIS.rar"
+    },
+    "31": {
+      "id": 31,
+      "title": "Desafio da Pirâmide Molecular",
+      "area": "Química",
+      "type": "Jogo",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Desafio da Pirâmide Molecular.rar"
+    },
+    "32": {
+      "id": 32,
+      "title": "Detector de celular",
+      "area": "Tecnologia e Robótica",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Detector de celular.rar"
+    },
+    "34": {
+      "id": 34,
+      "title": "Dinâmica diagnóstica",
+      "area": "Jogos e Atividades",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Dinâmica diagnóstica.rar"
+    },
+    "35": {
+      "id": 35,
+      "title": "Eletromagnetismo",
+      "area": "Física",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Eletromagnetismo.rar"
+    },
+    "36": {
+      "id": 36,
+      "title": "Energias",
+      "area": "Biblioteca Geral",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Energias.rar"
+    },
+    "37": {
+      "id": 37,
+      "title": "Evolução",
+      "area": "Biologia e Saúde",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Evolução.rar"
+    },
+    "38": {
+      "id": 38,
+      "title": "Experimento cinética químics",
+      "area": "Química",
+      "type": "Atividade",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Experimento cinética químics.rar"
+    },
+    "39": {
+      "id": 39,
+      "title": "Experimento probabilidade",
+      "area": "Biblioteca Geral",
+      "type": "Atividade",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Experimento probabilidade.rar"
+    },
+    "40": {
+      "id": 40,
+      "title": "Experimentos do Lab",
+      "area": "Kits e Laboratório",
+      "type": "Atividade",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Experimentos do Lab.rar"
+    },
+    "42": {
+      "id": 42,
+      "title": "Explicação",
+      "area": "Biblioteca Geral",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Explicação.rar"
+    },
+    "43": {
+      "id": 43,
+      "title": "Funções organicas",
+      "area": "Química",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Funções organicas.rar"
+    },
+    "44": {
+      "id": 44,
+      "title": "Física e Marcenaria",
+      "area": "Física",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Física e Marcenaria.rar"
+    },
+    "45": {
+      "id": 45,
+      "title": "Gases",
+      "area": "Física",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Gases.rar"
+    },
+    "46": {
+      "id": 46,
+      "title": "Gemini_Generated_Image_8ql7yl8ql7yl8ql7",
+      "area": "Multimídia",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Gemini_Generated_Image_8ql7yl8ql7yl8ql7.rar"
+    },
+    "47": {
+      "id": 47,
+      "title": "Gemini_Generated_Image_kwmirlkwmirlkwmi",
+      "area": "Multimídia",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Gemini_Generated_Image_kwmirlkwmirlkwmi.rar"
+    },
+    "48": {
+      "id": 48,
+      "title": "Guia_de_Desenvolvimento_BancaDaCiencia",
+      "area": "Institucional",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Guia_de_Desenvolvimento_BancaDaCiencia.rar"
+    },
+    "49": {
+      "id": 49,
+      "title": "Hortas-Urbanas-FINAL-bx-site",
+      "area": "Meio Ambiente",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Hortas-Urbanas-FINAL-bx-site.rar"
+    },
+    "50": {
+      "id": 50,
+      "title": "Jogo Competitivo_ Corrida das Massas Moleculares",
+      "area": "Química",
+      "type": "Jogo",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Jogo Competitivo_ Corrida das Massas Moleculares.rar"
+    },
+    "51": {
+      "id": 51,
+      "title": "Jogos no Ensino de Ciências",
+      "area": "Jogos e Atividades",
+      "type": "Jogo",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Jogos no Ensino de Ciências.rar"
+    },
+    "52": {
+      "id": 52,
+      "title": "Kits",
+      "area": "Kits e Laboratório",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Kits.rar"
+    },
+    "53": {
+      "id": 53,
+      "title": "Livro de Física",
+      "area": "Física",
+      "type": "Publicação",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Livro de Física.rar"
+    },
+    "54": {
+      "id": 54,
+      "title": "Luz e Física Quântica",
+      "area": "Física",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Luz e Física Quântica.rar"
+    },
+    "55": {
+      "id": 55,
+      "title": "Maquinas Simples",
+      "area": "Física",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Maquinas Simples.rar"
+    },
+    "56": {
+      "id": 56,
+      "title": "Mergulho na Pressão – Modelagem da Hidrostática no Scratch",
+      "area": "Física",
+      "type": "Projeto/Simulador",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Mergulho na Pressão – Modelagem da Hidrostática no Scratch.rar"
+    },
+    "57": {
+      "id": 57,
+      "title": "Minerais ECCE",
+      "area": "Química",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Minerais ECCE.rar"
+    },
+    "58": {
+      "id": 58,
+      "title": "Mineração",
+      "area": "Química",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Mineração.rar"
+    },
+    "59": {
+      "id": 59,
+      "title": "Minhocas e Compostagem",
+      "area": "Meio Ambiente",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Minhocas e Compostagem.rar"
+    },
+    "60": {
+      "id": 60,
+      "title": "Minimalist Abstract Flower Blank A4 Document",
+      "area": "Biblioteca Geral",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Minimalist Abstract Flower Blank A4 Document .rar"
+    },
+    "61": {
+      "id": 61,
+      "title": "Nanotecnologia",
+      "area": "Química",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Nanotecnologia.rar"
+    },
+    "62": {
+      "id": 62,
+      "title": "O inseto transmissor da dengue é o mosquito Aedes Aegypti, que precisa de água parada para se proliferar.",
+      "area": "Biologia e Saúde",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "O inseto transmissor da dengue é o mosquito Aedes Aegypti, que precisa de água parada para se proliferar..rar"
+    },
+    "63": {
+      "id": 63,
+      "title": "Onda Eletromagnética",
+      "area": "Física",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Onda Eletromagnética.rar"
+    },
+    "64": {
+      "id": 64,
+      "title": "Onda Mecânica",
+      "area": "Física",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Onda Mecânica.rar"
+    },
+    "65": {
+      "id": 65,
+      "title": "Otica e física moderna - Young e Freedman",
+      "area": "Física",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Otica e física moderna - Young e Freedman.rar"
+    },
+    "66": {
+      "id": 66,
+      "title": "PH",
+      "area": "Química",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "PH.rar"
+    },
+    "67": {
+      "id": 67,
+      "title": "Para colorir - medos",
+      "area": "Jogos e Atividades",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Para colorir - medos.rar"
+    },
+    "68": {
+      "id": 68,
+      "title": "Planos de aula SECI",
+      "area": "Biblioteca Geral",
+      "type": "Plano/Aula",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Planos de aula SECI.rar"
+    },
+    "69": {
+      "id": 69,
+      "title": "Pressão de uma coluna de liquido",
+      "area": "Física",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Pressão de uma coluna de liquido.rar"
+    },
+    "70": {
+      "id": 70,
+      "title": "Pressão e Volume",
+      "area": "Física",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Pressão e Volume.rar"
+    },
+    "71": {
+      "id": 71,
+      "title": "Projetos",
+      "area": "Institucional",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Projetos.rar"
+    },
+    "73": {
+      "id": 73,
+      "title": "Propriedades Físicas",
+      "area": "Física",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Propriedades Físicas.rar"
+    },
+    "74": {
+      "id": 74,
+      "title": "Propriedades Periodicas",
+      "area": "Química",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Propriedades Periodicas.rar"
+    },
+    "75": {
+      "id": 75,
+      "title": "Prova Paulista",
+      "area": "Formação Docente",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Prova Paulista.rar"
+    },
+    "76": {
+      "id": 76,
+      "title": "Prática de astrometria",
+      "area": "Astronomia",
+      "type": "Atividade",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Prática de astrometria.rar"
+    },
+    "77": {
+      "id": 77,
+      "title": "QRcode",
+      "area": "Tecnologia e Robótica",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "QRcode.rar"
+    },
+    "78": {
+      "id": 78,
+      "title": "REVISTA CONHEÇA LCN",
+      "area": "Institucional",
+      "type": "Publicação",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "REVISTA CONHEÇA LCN.rar"
+    },
+    "79": {
+      "id": 79,
+      "title": "Raizes ideológicas do pensamento educacional brasileiro",
+      "area": "Formação Docente",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Raizes ideológicas do pensamento educacional brasileiro.rar"
+    },
+    "80": {
+      "id": 80,
+      "title": "Reagente Limitante com Hambúrgueres – Uma Atividade Lúdica",
+      "area": "Química",
+      "type": "Atividade",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Reagente Limitante com Hambúrgueres – Uma Atividade Lúdica.rar"
+    },
+    "81": {
+      "id": 81,
+      "title": "Relatório de Análise do Processo Seletivo. Ronaldo",
+      "area": "Institucional",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Relatório de Análise do Processo Seletivo. Ronaldo.rar"
+    },
+    "82": {
+      "id": 82,
+      "title": "Relação de materiais disponíveis no laboratório",
+      "area": "Kits e Laboratório",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Relação de materiais disponíveis no laboratório.rar"
+    },
+    "83": {
+      "id": 83,
+      "title": "Repositório",
+      "area": "Institucional",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Repositório.rar"
+    },
+    "84": {
+      "id": 84,
+      "title": "Revisão Mecânica",
+      "area": "Física",
+      "type": "Plano/Aula",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Revisão Mecânica.rar"
+    },
+    "85": {
+      "id": 85,
+      "title": "Revisão de trigonometria",
+      "area": "Formação Docente",
+      "type": "Plano/Aula",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Revisão de trigonometria.rar"
+    },
+    "86": {
+      "id": 86,
+      "title": "Scratch",
+      "area": "Tecnologia e Robótica",
+      "type": "Projeto/Simulador",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Scratch.rar"
+    },
+    "87": {
+      "id": 87,
+      "title": "Sensor ultrasônico",
+      "area": "Tecnologia e Robótica",
+      "type": "Projeto/Simulador",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Sensor ultrasônico.rar"
+    },
+    "88": {
+      "id": 88,
+      "title": "Sequência Didática",
+      "area": "Formação Docente",
+      "type": "Plano/Aula",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Sequência Didática.rar"
+    },
+    "89": {
+      "id": 89,
+      "title": "Solo",
+      "area": "Meio Ambiente",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Solo.rar"
+    },
+    "90": {
+      "id": 90,
+      "title": "Stop Motion",
+      "area": "Tecnologia e Robótica",
+      "type": "Vídeo/Multimídia",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Stop Motion.rar"
+    },
+    "91": {
+      "id": 91,
+      "title": "Síntese de nanoparticulas de prata",
+      "area": "Química",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Síntese de nanoparticulas de prata.rar"
+    },
+    "92": {
+      "id": 92,
+      "title": "Tabela Periodica",
+      "area": "Química",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Tabela Periodica.rar"
+    },
+    "93": {
+      "id": 93,
+      "title": "Tarefa-Conhecendo as leis de reflexão da luz",
+      "area": "Física",
+      "type": "Atividade",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Tarefa-Conhecendo as leis de reflexão da luz.rar"
+    },
+    "94": {
+      "id": 94,
+      "title": "Temperatura Global",
+      "area": "Física",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Temperatura Global.rar"
+    },
+    "95": {
+      "id": 95,
+      "title": "Teremin Virtual",
+      "area": "Física",
+      "type": "Projeto/Simulador",
+      "summary": "Instrumento virtual para investigar frequência, altura sonora e controle gestual.",
+      "objectives": [
+        "Relacionar frequência e altura sonora",
+        "Explorar interação gestual"
+      ],
+      "materials": [
+        "Computador com navegador"
+      ],
+      "procedure": [
+        "Mova o cursor na horizontal",
+        "Altere o volume na vertical",
+        "Compare frequências",
+        "Crie uma sequência sonora"
+      ],
+      "concepts": [
+        "Som",
+        "Frequência",
+        "Ondas"
+      ],
+      "source": "Teremin Virtual.rar"
+    },
+    "97": {
+      "id": 97,
+      "title": "Termodinâmica",
+      "area": "Física",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Termodinâmica.rar"
+    },
+    "98": {
+      "id": 98,
+      "title": "Turma-da-Risca",
+      "area": "Multimídia",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Turma-da-Risca.rar"
+    },
+    "99": {
+      "id": 99,
+      "title": "Videos legais",
+      "area": "Multimídia",
+      "type": "Vídeo/Multimídia",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Videos legais.rar"
+    },
+    "101": {
+      "id": 101,
+      "title": "Voluntarios Judith",
+      "area": "Institucional",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "Voluntarios Judith.rar"
+    },
+    "102": {
+      "id": 102,
+      "title": "arduinoRGB",
+      "area": "Tecnologia e Robótica",
+      "type": "Projeto/Simulador",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "arduinoRGB.rar"
+    },
+    "103": {
+      "id": 103,
+      "title": "atividade esperimental de espelhos",
+      "area": "Física",
+      "type": "Atividade",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "atividade esperimental de espelhos.rar"
+    },
+    "104": {
+      "id": 104,
+      "title": "atividade mizu_merged",
+      "area": "Jogos e Atividades",
+      "type": "Atividade",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "atividade mizu_merged.rar"
+    },
+    "105": {
+      "id": 105,
+      "title": "aula fungos",
+      "area": "Biologia e Saúde",
+      "type": "Plano/Aula",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "aula fungos.rar"
+    },
+    "106": {
+      "id": 106,
+      "title": "aula transmissão do HIV",
+      "area": "Biologia e Saúde",
+      "type": "Plano/Aula",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "aula transmissão do HIV.rar"
+    },
+    "107": {
+      "id": 107,
+      "title": "ciclos Biogeoquimicos",
+      "area": "Meio Ambiente",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "ciclos Biogeoquimicos.rar"
+    },
+    "108": {
+      "id": 108,
+      "title": "cientistas",
+      "area": "Biblioteca Geral",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "cientistas.rar"
+    },
+    "109": {
+      "id": 109,
+      "title": "copy_1A28A8C8-E1BE-4F80-97C2-12C4F248FE6F",
+      "area": "Biblioteca Geral",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "copy_1A28A8C8-E1BE-4F80-97C2-12C4F248FE6F.rar"
+    },
+    "110": {
+      "id": 110,
+      "title": "copy_310E693F-F19E-4999-A5AD-215294647684",
+      "area": "Biblioteca Geral",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "copy_310E693F-F19E-4999-A5AD-215294647684.rar"
+    },
+    "111": {
+      "id": 111,
+      "title": "copy_F039150F-8938-4928-83E8-5ADB995B27A5",
+      "area": "Biblioteca Geral",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "copy_F039150F-8938-4928-83E8-5ADB995B27A5.rar"
+    },
+    "112": {
+      "id": 112,
+      "title": "código simples para testar arduino IDE + LED e resistores",
+      "area": "Tecnologia e Robótica",
+      "type": "Projeto/Simulador",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "código simples para testar arduino IDE + LED e resistores.rar"
+    },
+    "113": {
+      "id": 113,
+      "title": "exercicios de física",
+      "area": "Física",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "exercicios de física.rar"
+    },
+    "114": {
+      "id": 114,
+      "title": "forense",
+      "area": "Biblioteca Geral",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "forense.rar"
+    },
+    "116": {
+      "id": 116,
+      "title": "imagens",
+      "area": "Biblioteca Geral",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "imagens.rar"
+    },
+    "117": {
+      "id": 117,
+      "title": "instagram oficial",
+      "area": "Institucional",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "instagram oficial.rar"
+    },
+    "118": {
+      "id": 118,
+      "title": "jp6b08387_si_001",
+      "area": "Biblioteca Geral",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "jp6b08387_si_001.rar"
+    },
+    "119": {
+      "id": 119,
+      "title": "lna_nt_2025_28-telescopio-em-ambiente-virtual-representacao-digital-e-estudo-de-movimento-do-perkin-elmer-1_60m",
+      "area": "Astronomia",
+      "type": "Projeto/Simulador",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "lna_nt_2025_28-telescopio-em-ambiente-virtual-representacao-digital-e-estudo-de-movimento-do-perkin-elmer-1_60m.rar"
+    },
+    "120": {
+      "id": 120,
+      "title": "octeto",
+      "area": "Química",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "octeto.rar"
+    },
+    "121": {
+      "id": 121,
+      "title": "projeto espelho",
+      "area": "Física",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "projeto espelho.rar"
+    },
+    "123": {
+      "id": 123,
+      "title": "rgb_game",
+      "area": "Tecnologia e Robótica",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "rgb_game.rar"
+    },
+    "124": {
+      "id": 124,
+      "title": "telescopio",
+      "area": "Astronomia",
+      "type": "Projeto/Simulador",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "telescopio.rar"
+    },
+    "126": {
+      "id": 126,
+      "title": "termometro",
+      "area": "Biblioteca Geral",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "termometro.rar"
+    },
+    "127": {
+      "id": 127,
+      "title": "tutorial SalsaJ",
+      "area": "Astronomia",
+      "type": "Publicação",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "tutorial SalsaJ.rar"
+    },
+    "128": {
+      "id": 128,
+      "title": "zine",
+      "area": "Multimídia",
+      "type": "Documento",
+      "summary": "Recebido — conteúdo aguardando catalogação detalhada",
+      "objectives": [],
+      "materials": [],
+      "procedure": [],
+      "concepts": [],
+      "source": "zine.rar"
+    }
+  }
+}
